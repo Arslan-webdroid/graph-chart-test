@@ -9,9 +9,7 @@ The template offers data visualization by displaying a bar chart. It utilizes a 
 **How It Works**
 
 The HTML structure of the template includes a container that holds a header and placeholder text. It also features a **`<canvas>`** element where the chart will be rendered.
-
 The PHP script reads and parses a CSV file located in the theme directory. It processes the sales data, aggregating annual sales figures for Aquaman and Namor. This aggregated data is then prepared for use with Chart.js.
-
 In the JavaScript section, a Chart.js bar chart is initialized with the aggregated sales data. The script configures various chart options, including appearance and interactive elements, to enhance the user experience.
 
 **Setup**
@@ -21,4 +19,5 @@ To use this template, place the file in your WordPress theme directory. Ensure t
 **Dependencies**
 
 WordPress
+
 Chart.js
