@@ -21,3 +21,5 @@ To use this template, place the file in your WordPress theme directory. Ensure t
 WordPress
 
 Chart.js
+
+![test-graph-chart](https://github.com/user-attachments/assets/58833ab9-9326-47a5-8cf5-9883ee56bfae)
